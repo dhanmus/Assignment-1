@@ -5,3 +5,4 @@ while(n<=num):
     fact=fact*n
     n+=1
 print("Factorial of ",num," is ",fact)
+print("Hello")
